@@ -16,13 +16,13 @@ This is a News App built using Jetpack Compose for Desktop. It features a simple
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/news-app.git
-   cd news-app
+   git clone https://github.com/JamesHardey/NewsApp.git
+   cd NewsApp
    ```
 
 2. **Open the Project in IntelliJ IDEA**
     - Make sure you have the latest version of IntelliJ IDEA installed.
-    - Open the `news-app` directory as a project.
+    - Open the `NewsApp` directory as a project.
 
 3. **Setup NewsAPI**
     - Obtain an API key from [NewsAPI](https://newsapi.org/).
