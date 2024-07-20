@@ -62,6 +62,23 @@ This is a News App built using Jetpack Compose for Desktop. It features a simple
 - Kotlin Coroutines for asynchronous operations
 - [NewsAPI](https://newsapi.org/) for fetching news articles
 
+
+## Screenshots
+
+![NewsApp Screenshot4](https://github.com/user-attachments/assets/cd72131e-94f9-4b48-b1e2-d4cff6203ff8)
+Screenshot 1
+<br>
+<br>
+![NewsApp Screenshot](https://github.com/user-attachments/assets/2dc2131f-b4c6-4182-a4ad-49cba9e1c879)
+Screenshot 2
+<br>
+<br>
+![NewsApp Screenshot2](https://github.com/user-attachments/assets/1e48ebb5-34c7-4f25-9382-9d19608020f1)
+Screenshot 3
+<br>
+<br>
+![NewsApp Screenshot3](https://github.com/user-attachments/assets/b60ea7c1-d73e-4469-8dc1-f2480e30dd55)
+
 ## License
 
 This project is licensed under the MIT License.
